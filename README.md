@@ -1,2 +1,2 @@
-# lkl_team3_project2
+# Tales of Old
 Text_base game 
